@@ -1,5 +1,5 @@
 
-# 💙 How to create React App
+# How to create React App
 
 <p align="center">
   <a href="https://skillicons.dev">
