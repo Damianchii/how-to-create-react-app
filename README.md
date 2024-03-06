@@ -8,6 +8,7 @@
 </p>
 For those who may be unfamiliar with or have forgotten the process of creating a React app, this guide provides step-by-step instructions along with detailed descriptions. It outlines the specific commands you should enter into your terminal to set up a React application
 
+
 ## Create React Project using Vite
 The command npm create vite@latest is used to create a new Vite project using the latest version of the Vite template available
 ```bash
@@ -35,4 +36,9 @@ Get into your project following this command
 Install nmp in your Project
 ```bash
   npm install
+```
+## Start development Server
+This command used to run a script named "dev" defined in the "scripts" section of the package.json. The main idea behind using this command is to launch a local development environment, providing features like fast page refresh after code changes.
+```bash
+  npm run dev
 ```
