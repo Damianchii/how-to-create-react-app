@@ -1,2 +1,9 @@
-# how-to-create-react-app
-A step-by-step guide on creating a React app using the Create React App tool.
+
+# 💙 How to create React App
+
+<p align="center">
+
+  <b>[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)</b>
+  
+</p>
+For those who may be unfamiliar with or have forgotten the process of creating a React app, this guide provides step-by-step instructions along with detailed descriptions. It outlines the specific commands you should enter into your terminal to set up a React application
