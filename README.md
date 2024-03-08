@@ -1,5 +1,5 @@
 
-# How to create React App
+# How to create React App using Vite
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,3 +42,4 @@ This command used to run a script named "dev" defined in the "scripts" section o
 ```bash
   npm run dev
 ```
+
