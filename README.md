@@ -12,7 +12,7 @@ For those who may be unfamiliar with or have forgotten the process of creating a
 ## Create React Project using Vite
 The command npm create vite@latest is used to create a new Vite project using the latest version of the Vite template available
 ```bash
-  npm create vite@latest
+  npm create vite@latest .
 ```
 #### Why Vite ?
 Vite is a JavaScript project build tool that focuses on speed and efficiency during the development process. It is particularly popular in the context of projects based on the Vue.js framework but can be used with other libraries such as React or Preact.
